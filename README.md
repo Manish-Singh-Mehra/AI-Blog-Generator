@@ -16,6 +16,8 @@ Before using the code directly, create a new environment and install all the lib
 
 Download "llama-2-7b-chat.ggmlv3.q8_0.bin" from the hugging face library and you are good to go.
 
+To run this code just write "streamlit run app.py" in the terminal of your environment.
+
 <li>link: 
 <ul>"https://huggingface.co/meta-llama/Llama-2-7b-chat"</ul>
 <ul>"https://huggingface.co/meta-llama/Llama-2-7b-hf"</ul></li> 
